@@ -1,0 +1,2 @@
+
+page = Nokogiri::HTML(open("https://coinmarketcap.com/all/views/all/"))
